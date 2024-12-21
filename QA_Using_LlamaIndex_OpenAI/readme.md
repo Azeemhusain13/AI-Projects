@@ -12,3 +12,6 @@ Scalable Setup: Designed for smooth deployment and adaptability to various domai
 Python 3.8 or higher
 An OpenAI API key
 Basic knowledge of Python and APIs
+
+🤝 **Contributing**
+We welcome contributions! Please fork the repository, create a new branch, and submit a pull request with your changes.
