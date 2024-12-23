@@ -15,3 +15,7 @@ Basic knowledge of Python and APIs
 
 🤝 **Contributing**
 We welcome contributions! Please fork the repository, create a new branch, and submit a pull request with your changes.
+
+Reference documents: 
+Web Page Reader: https://docs.llamaindex.ai/en/stable/examples/data_connectors/WebPageDemo/
+Query Data: https://docs.llamaindex.ai/en/stable/getting_started/starter_example/
